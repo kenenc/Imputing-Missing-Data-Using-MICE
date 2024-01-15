@@ -1,3 +1,12 @@
+# NOTE:
+### Please refer to the "PA1_template.md" file to view the actual report submission of this assignment.
+
+## The following/remaining README is the forked assignment instructions from course instructor Roger Peng's repository:
+
+&nbsp;
+
+&nbsp;
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
